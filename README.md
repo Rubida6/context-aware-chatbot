@@ -50,7 +50,7 @@ The `.env` file is for local configuration and must not be uploaded to GitHub.
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/Rubida6/context-aware-chatbot.git
 cd context_aware_chatbot
 ```
 
